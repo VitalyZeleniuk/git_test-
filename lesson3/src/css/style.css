@@ -1,0 +1,21 @@
+body {
+
+background: #323639;
+}
+
+h1 {
+    color: rgb(188, 232, 243);
+    text-align: center;
+}
+
+li  {
+    list-style: none;
+}
+
+.main-navigation {
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    background-color: #fff;
+    padding: 20px;
+}
